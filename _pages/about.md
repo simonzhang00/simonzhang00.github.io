@@ -2,33 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#social: true # includes social icons at the top of the page
+subtitle: "<i> Postdoctoral Scholar <br /> Email: zhang dot 680 at osu dot edu </i>"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: simonzhang-2-27-2023.JPG
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  social: true
+  more_info: 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: false
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 0 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Scholar in the Computer Science and Engineering Department at <a href="https://cse.osu.edu/" target="_blank">the Ohio State University</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my Ph.D. from <a href="https://cs.purdue.edu/" target="_blank">Purdue University</a> formally advised by Professor <a href="https://www.cs.purdue.edu/homes/tamaldey/" target= "_blank"> Tamal Dey </a> and my M.S. from the Department of Computer Science and Engineering at <a href="https://cse.osu.edu/" target="_blank">the Ohio State University</a>. I received my B.S. in Computer Science from <a href= "http://www.cs.cornell.edu/" target= "_blank"> Cornell University</a>.
+		  
+My research focus is in the areas of machine learning, algorithms, graph/connected data, data compression, topological data analysis, and high performance computing.

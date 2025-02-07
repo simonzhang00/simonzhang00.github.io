@@ -59,7 +59,9 @@
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
           {% for p in sorted_pages %}
-            {% if p.nav and p.autogen == null %}
+            <!-- 'and false' is added in to block off other pages in the header -->
+            <!-- if p.nav and p.autogen == null-->
+            {% if p.nav and p.autogen == null and false %}
               {% if p.dropdown %}
                 {% assign has_active_child = false %}
                 {% for child in p.children %}

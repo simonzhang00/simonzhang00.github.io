@@ -52,7 +52,6 @@ module Jekyll
           if !description_meta.empty?
             cited_by_text = description_meta[0]['content']
             matches = cited_by_text.match(/Cited by (\d+[,\d]*)/)
-
             if matches
               citation_count = matches[1].sub(",", "").to_i
             end
