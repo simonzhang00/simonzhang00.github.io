@@ -27,6 +27,6 @@ announcements:
 
 I am a Postdoctoral Scholar in the Computer Science and Engineering Department at <a href="https://cse.osu.edu/" target="_blank">the Ohio State University</a>.
 
-I received my Ph.D. from <a href="https://cs.purdue.edu/" target="_blank">Purdue University</a> formally advised by Professor <a href="https://www.cs.purdue.edu/homes/tamaldey/" target= "_blank"> Tamal Dey </a> and my M.S. from the Department of Computer Science and Engineering at <a href="https://cse.osu.edu/" target="_blank">the Ohio State University</a>. I received my B.S. in Computer Science from <a href= "http://www.cs.cornell.edu/" target= "_blank"> Cornell University</a>.
+I received my Ph.D. in Computer Science from <a href="https://cs.purdue.edu/" target="_blank">Purdue University</a> formally advised by Professor <a href="https://www.cs.purdue.edu/homes/tamaldey/" target= "_blank"> Tamal Dey </a> and my M.S. from the Department of Computer Science and Engineering at <a href="https://cse.osu.edu/" target="_blank">the Ohio State University</a>. I received my B.S. in Computer Science from <a href= "http://www.cs.cornell.edu/" target= "_blank"> Cornell University</a>.
 		  
 My research focus is in the areas of machine learning, algorithms, graph/connected data, data compression, topological data analysis, and high performance computing.
