@@ -41,9 +41,6 @@ ninja.data = [{
     },{id: "news-i-graduated-from-purdue-university-with-my-ph-d-in-computer-science",
           title: 'I graduated from Purdue University with my Ph.D. in Computer Science.',
           description: "",
-          section: "News",},{id: "news-i-will-be-joining-dr-guo-s-lab-as-a-postdoctoral-scholar",
-          title: 'I will be joining Dr. Guo’s lab as a Postdoctoral Scholar.',
-          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
