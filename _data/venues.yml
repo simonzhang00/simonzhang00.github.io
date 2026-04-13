@@ -13,27 +13,24 @@
 
 "LoG":
   url: https://logconference.org/
-  color: 'purple'
+  color: "purple"
 
 "ICML":
   url: https://icml.cc/
-  color: 'green'
+  color: "green"
 
 "ALENEX":
   url: https://epubs.siam.org/doi/book/10.1137/1.9781611977042
-  color: 'teal'
+  color: "teal"
 
 "SoCG":
   url: https://www.computational-geometry.org/
-  color: 'brown'
+  color: "brown"
 
 "ICS":
   url: https://www.ics-conference.org/
-  color: 'black'
+  color: "black"
 
 "SoCC":
   url: https://acmsocc.org/2024/
-  color: 'navy'
-
-
-
+  color: "navy"

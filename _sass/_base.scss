@@ -198,33 +198,33 @@ ul.task-list input[type="checkbox"] {
     //text-align: center;
     .contact-icons {
       font-size: 2rem;
-  
+
       a {
         img {
           width: 2.2rem; //3.2rem;
           height: 2.2rem; //3.2rem;
           margin-bottom: 1rem;
         }
-  
+
         svg {
           width: 2.5rem; //3.5rem;
           height: 3rem; //4rem;
           margin-bottom: 0.5rem;
-  
+
           image {
             width: 2.5rem; //3.5rem;
             height: 2.5rem; //3.5rem;
           }
         }
-  
+
         i::before {
           color: var(--global-text-color);
           transition-property: all 0.2s ease-in-out;
         }
-  
+
         &:hover {
           text-decoration: none;
-  
+
           i::before {
             color: var(--global-theme-color);
           }
@@ -1001,25 +1001,25 @@ progress::-webkit-progress-bar {
 }
 
 progress::-webkit-progress-value {
-  background-color: transparent;//var(--global-theme-color);
+  background-color: transparent; //var(--global-theme-color);
   color: transparent;
 }
 
 progress::-moz-progress-bar {
-  background-color: transparent;//var(--global-theme-color);
+  background-color: transparent; //var(--global-theme-color);
   color: transparent;
 }
 
 .progress-container {
-   width: 100%;
-   background-color: transparent;
-   color: transparent;
-   position: fixed;
-   top: 56px;
-   left: 0;
-   height: 0px; //5px;
-   display: block;
- }
+  width: 100%;
+  background-color: transparent;
+  color: transparent;
+  position: fixed;
+  top: 56px;
+  left: 0;
+  height: 0px; //5px;
+  display: block;
+}
 
 .progress-bar {
   background-color: transparent; //var(--global-theme-color);
