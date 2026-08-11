@@ -9,7 +9,7 @@ profile:
   align: right
   image: false # simonzhang-2-27-2023.JPG
   image_circular: false # crops the image to make it circular
-  social: true
+  social: false # true
   more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
